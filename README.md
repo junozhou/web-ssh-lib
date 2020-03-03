@@ -1,2 +1,0 @@
-# web-ssh-lib
-lib
