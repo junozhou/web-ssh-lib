@@ -2,6 +2,7 @@ LICENSE
 MANIFEST.in
 README.rst
 runtests.sh
+setup.cfg
 setup.py
 demos/appengine/README
 demos/appengine/app.yaml
@@ -185,6 +186,7 @@ tornado/wsgi.py
 tornado.egg-info/PKG-INFO
 tornado.egg-info/SOURCES.txt
 tornado.egg-info/dependency_links.txt
+tornado.egg-info/requires.txt
 tornado.egg-info/top_level.txt
 tornado/platform/__init__.py
 tornado/platform/asyncio.py
